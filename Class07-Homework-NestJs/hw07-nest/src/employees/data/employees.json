@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "firstName": "firstName-updated",
+    "lastName": "first",
+    "age": 33,
+    "workPosition": "Mayor"
+  },
+  {
+    "id": "2",
+    "firstName": "second",
+    "lastName": "second",
+    "age": 22,
+    "workPosition": "machinist"
+  },
+  {
+    "firstName": "daniel",
+    "lastName": "jackson",
+    "age": 50,
+    "workPosition": "boss",
+    "id": "e535f623-f7d9-42d3-ad4b-dc729031857d"
+  },
+  {
+    "firstName": "daniel-jr",
+    "lastName": "jackson",
+    "age": 18,
+    "workPosition": "boss-help",
+    "id": "92344e4d-e34e-444d-b685-c75384d3451e"
+  },
+  {
+    "firstName": "jack",
+    "lastName": "sparrow",
+    "age": 27,
+    "workPosition": "pirate",
+    "id": "e1f6abd2-762d-4d5d-b545-103800fb07f8"
+  },
+  {
+    "firstName": "jack",
+    "lastName": "sparrow",
+    "age": 27,
+    "workPosition": "pirate",
+    "id": "6880fd0c-cbca-4f63-b0e0-fb6085c558bc"
+  },
+  {
+    "firstName": "jack",
+    "lastName": "sparrow",
+    "age": 22,
+    "workPosition": "pirate",
+    "id": "8ed9148a-7f4b-4d87-9512-88f48306c335"
+  },
+  {
+    "firstName": "jack",
+    "lastName": "sparrow",
+    "age": 21,
+    "workPosition": "pirate",
+    "id": "c4417cc3-efa1-472c-a672-478abc669c21"
+  }
+]

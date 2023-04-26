@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "firstName": "firstName-updated",
+        "lastName": "first",
+        "age": 33,
+        "workPosition": "Mayor"
+    },
+    {
+        "id": "2",
+        "firstName": "second",
+        "lastName": "second",
+        "age": 22,
+        "workPosition": "machinist"
+    },
+    {
+        "firstName": "daniel",
+        "lastName": "jackson",
+        "age": 50,
+        "workPosition": "boss",
+        "id": "e535f623-f7d9-42d3-ad4b-dc729031857d"
+    },
+    {
+        "firstName": "daniel-jr",
+        "lastName": "jackson",
+        "age": 18,
+        "workPosition": "boss-help",
+        "id": "92344e4d-e34e-444d-b685-c75384d3451e"
+    },
+    {
+        "firstName": "jack",
+        "lastName": "sparrow",
+        "age": 27,
+        "workPosition": "pirate",
+        "id": "e1f6abd2-762d-4d5d-b545-103800fb07f8"
+    }
+]
